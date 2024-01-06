@@ -1,4 +1,4 @@
-package JavaFileOne;
+// package JavaFileOne;
 
 import java.util.Scanner;
 

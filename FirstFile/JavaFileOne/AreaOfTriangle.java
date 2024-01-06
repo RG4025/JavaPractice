@@ -1,5 +1,5 @@
-package JavaFileOne;
-
+// package JavaFileOne;
+// import java.lang.*;
 import java.util.Scanner;
 
 public class AreaOfTriangle {
