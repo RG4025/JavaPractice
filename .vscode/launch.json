@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddParams",
+            "request": "launch",
+            "mainClass": "AddParams",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumber",
+            "request": "launch",
+            "mainClass": "AddTwoNumber",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumberMethod",
+            "request": "launch",
+            "mainClass": "AddTwoNumberMethod",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfTriangle",
+            "request": "launch",
+            "mainClass": "AreaOfTriangle",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "MultiTable",
+            "request": "launch",
+            "mainClass": "MultiTable",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEvenBitwise",
+            "request": "launch",
+            "mainClass": "OddOrEvenBitwise",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "RightAndLeftShiftBitwise",
+            "request": "launch",
+            "mainClass": "RightAndLeftShiftBitwise",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SimpleMethod",
+            "request": "launch",
+            "mainClass": "SimpleMethod",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "StarPatternOne",
+            "request": "launch",
+            "mainClass": "StarPatternOne",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SumOddNumbers",
+            "request": "launch",
+            "mainClass": "SumOddNumbers",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumber",
+            "request": "launch",
+            "mainClass": "SwapTwoNumber",
+            "projectName": "JavaPractice_8156647f"
+        }
+    ]
+}
