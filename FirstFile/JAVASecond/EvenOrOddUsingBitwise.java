@@ -18,7 +18,7 @@ public class EvenOrOddUsingBitwise {
         }
 
 
-        int num2 = num & 1;
+        int num2 = num & 7;
         System.out.println(num2);
     }
 }
