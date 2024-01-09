@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "JAVASecond.Second",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "First",
             "request": "launch",
             "mainClass": "FirstFile.JAVASecond.First",
