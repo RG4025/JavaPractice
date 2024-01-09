@@ -1,6 +1,0 @@
-import 
-
-public class sumOfNumbersFromForLoop{
-
-
-}

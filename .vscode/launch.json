@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOrOddUsingBitwise",
+            "request": "launch",
+            "mainClass": "EvenOrOddUsingBitwise",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SumNumberFor",
+            "request": "launch",
+            "mainClass": "SumNumberFor",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "First",
             "request": "launch",
             "mainClass": "JAVASecond.First",
