@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "FirstFile.JAVASecond.First",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumberUsingFor",
+            "request": "launch",
+            "mainClass": "SumOfNumberUsingFor",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "PatternReverse",
+            "request": "launch",
+            "mainClass": "PatternReverse",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "PatternReverse",
+            "request": "launch",
+            "mainClass": "JavaFileOne.PatternReverse",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
