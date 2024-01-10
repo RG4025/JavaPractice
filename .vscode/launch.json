@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "ArmStrong",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "EvenOrOddUsingBitwise",
             "request": "launch",
             "mainClass": "EvenOrOddUsingBitwise",
