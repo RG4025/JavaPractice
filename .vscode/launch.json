@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AscendingOrderArray",
+            "request": "launch",
+            "mainClass": "AscendingOrderArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "Array1",
             "request": "launch",
             "mainClass": "Array1",
