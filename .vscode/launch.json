@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "JAVASecond.MergeTwoSortedArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "ArrayIsPalindrome",
             "request": "launch",
             "mainClass": "JAVASecond.ArrayIsPalindrome",
@@ -69,7 +76,6 @@
         },
         {
             "type": "java",
-   
             "name": "EvenOrOddUsingBitwise",
             "request": "launch",
             "mainClass": "EvenOrOddUsingBitwise",
