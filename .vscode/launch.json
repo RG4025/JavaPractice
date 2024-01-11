@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergingTwoArray",
+            "request": "launch",
+            "mainClass": "MergingTwoArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddArrayStore",
+            "request": "launch",
+            "mainClass": "EvenOddArrayStore",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinNumberArray",
+            "request": "launch",
+            "mainClass": "MaxMinNumberArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "AscendingOrderArray",
             "request": "launch",
             "mainClass": "AscendingOrderArray",
