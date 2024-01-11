@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayInDscendingOrder",
+            "request": "launch",
+            "mainClass": "JAVASecond.ArrayInDscendingOrder",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "MergingTwoArray",
             "request": "launch",
             "mainClass": "MergingTwoArray",

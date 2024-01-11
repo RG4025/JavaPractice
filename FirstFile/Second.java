@@ -1,5 +1,6 @@
 import java.time.LocalTime;
 import java.time.ZoneId;
+import java.util.ArrayList;
 
 public class Second {
 
@@ -22,5 +23,10 @@ public class Second {
         ZoneId zone1 = ZoneId.of("Asia/Kolkata");
         LocalTime notTime = LocalTime.now(zone1);
         System.out.println(notTime);
+
+        int one = 21;
+        int[] one1 = new int[one];
+
+        System.out.println();
     }
 }
