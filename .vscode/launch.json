@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayIsPalindrome",
+            "request": "launch",
+            "mainClass": "JAVASecond.ArrayIsPalindrome",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "ReversingArray",
+            "request": "launch",
+            "mainClass": "JAVASecond.ReversingArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "ArrayInDscendingOrder",
             "request": "launch",
             "mainClass": "JAVASecond.ArrayInDscendingOrder",
@@ -55,6 +69,7 @@
         },
         {
             "type": "java",
+   
             "name": "EvenOrOddUsingBitwise",
             "request": "launch",
             "mainClass": "EvenOrOddUsingBitwise",
