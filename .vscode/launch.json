@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maxin2DArray",
+            "request": "launch",
+            "mainClass": "JAVASecond.Maxin2DArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "JAVASecond.TwoDArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "SumOfElement",
+            "request": "launch",
+            "mainClass": "JAVASecond.SumOfElement",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "MergeTwoSortedArray",
             "request": "launch",
             "mainClass": "JAVASecond.MergeTwoSortedArray",
