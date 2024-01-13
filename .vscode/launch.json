@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfDiagonal2DArray",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.SumOfDiagonal2DArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.TwoDArray",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "FindElement",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.FindElement",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "Maxin2DArray",
             "request": "launch",
             "mainClass": "JAVASecond.Maxin2DArray",
