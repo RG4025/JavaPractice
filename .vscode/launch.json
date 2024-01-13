@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraysMethod",
+            "request": "launch",
+            "mainClass": "FirstFile.JAVASecond.ArraysMethod",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "SumOfDiagonal2DArray",
             "request": "launch",
             "mainClass": "FirstFile.IMPQue.SumOfDiagonal2DArray",
