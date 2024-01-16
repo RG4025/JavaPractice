@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.ArmStrong",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "ArraysMethod",
             "request": "launch",
             "mainClass": "FirstFile.JAVASecond.ArraysMethod",
