@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.SwitchCase",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "ArmStrong",
             "request": "launch",
             "mainClass": "FirstFile.IMPQue.ArmStrong",
