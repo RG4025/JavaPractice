@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberGusser",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.NumberGusser",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "Recurrsion",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.Recurrsion",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase",
             "request": "launch",
             "mainClass": "FirstFile.IMPQue.SwitchCase",
