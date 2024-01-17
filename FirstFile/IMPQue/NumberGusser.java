@@ -22,20 +22,20 @@ public class NumberGusser {
             }while( chance < 4  && user != random );
 
             if(user == random ){
-                lastChance = 4;
                 System.out.println("Whooh!! Champ You guassed it right!!, Correct number is :" + random);
+                break;
             }else{
                 System.out.println("Try one more time!!");
             }
 
             // System.out.print("You want to run again the game!");
-            lastChance++;
-
-            if(lastChance >= 3){
-                  System.out.println("Hard Luck!!");
-                  System.out.print("The Correct number was :" + random);
-                  break;
+            
+            if(lastChance > 3){
+                System.out.println("Hard Luck!!");
+                System.out.print("The Correct number was :" + random);
+                break;
             }
+            lastChance++;
         }while(runAgain);
 
     }
