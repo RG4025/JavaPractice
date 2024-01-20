@@ -1,3 +1,5 @@
+package FirstFile.JAVASecond;
+
 import java.util.Scanner;
 
 public class Array1 {

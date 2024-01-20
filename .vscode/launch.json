@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "FirstFile.JAVASecond.Array1",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "NumberGusser",
             "request": "launch",
             "mainClass": "FirstFile.IMPQue.NumberGusser",
