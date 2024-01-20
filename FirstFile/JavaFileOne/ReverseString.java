@@ -10,7 +10,23 @@ public class ReverseString {
         System.out.print("Enter the String below :");
         String str = obj.next();
 
+        System.out.printf("The String %s is Reversed as -:- %s",str,revStr(str));
 
+    }
+
+    public static String revStr(String str){
+
+        String revStr = "";
+        char ch;
+
+        for(int i = 0 ; i < str.length() ;i++){
+            ch = str.charAt(i);
+            revStr = ch+revStr;
+
+        }
+
+
+        return revStr;
     }
 
    
