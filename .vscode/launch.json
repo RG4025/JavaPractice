@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringRev",
+            "request": "launch",
+            "mainClass": "FirstFile.IMPQue.StringRev",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "TestBird",
             "request": "launch",
             "mainClass": "FirstFile.Interface.TestBird",
