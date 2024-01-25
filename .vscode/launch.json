@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestBird",
+            "request": "launch",
+            "mainClass": "FirstFile.Interface.TestBird",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "TestVehicle",
             "request": "launch",
             "mainClass": "FirstFile.Abstraction.TestVehicle",
