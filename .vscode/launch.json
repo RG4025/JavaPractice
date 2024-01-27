@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ListInterface",
+            "request": "launch",
+            "mainClass": "FirstFile.ListInterface",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "Exception",
             "request": "launch",
             "mainClass": "FirstFile.IMPQue.Exception",
