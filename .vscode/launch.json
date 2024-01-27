@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VariableArgu",
+            "request": "launch",
+            "mainClass": "FirstFile.Challenge.VariableArgu",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "ListInterface",
             "request": "launch",
             "mainClass": "FirstFile.ListInterface",
