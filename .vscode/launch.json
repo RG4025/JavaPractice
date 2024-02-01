@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Quaue",
+            "request": "launch",
+            "mainClass": "FirstFile.ListInterface.Quaue",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "NewListType",
+            "request": "launch",
+            "mainClass": "FirstFile.ListInterface.NewListType",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
+            "name": "ListOne",
+            "request": "launch",
+            "mainClass": "FirstFile.ListInterface.ListOne",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "VariableArgu",
             "request": "launch",
             "mainClass": "FirstFile.Challenge.VariableArgu",
