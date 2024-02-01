@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestSet",
+            "request": "launch",
+            "mainClass": "FirstFile.ListInterface.TestSet",
+            "projectName": "JavaPractice_8156647f"
+        },
+        {
+            "type": "java",
             "name": "Quaue",
             "request": "launch",
             "mainClass": "FirstFile.ListInterface.Quaue",
