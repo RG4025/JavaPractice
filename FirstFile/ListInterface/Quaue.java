@@ -16,11 +16,11 @@ public class Quaue {
         
         que.add("Rushi");
         que.offer("Gurav");
+        que.add("Dilip");   
 
 
         for (String qu : que) {
-            
             System.out.print(qu + " ");
         }
     }
-}
+}   
