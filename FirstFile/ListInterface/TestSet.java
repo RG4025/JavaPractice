@@ -3,6 +3,7 @@ package FirstFile.ListInterface;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class TestSet {
     public static void main(String[] args) {
@@ -34,7 +35,27 @@ public class TestSet {
 
         System.out.println(linkName);
 
-        
+
+        TreeSet<Integer> treeName = new TreeSet<>();
+
+        treeName.add(12);
+        treeName.add(123);
+        treeName.add(121);
+        treeName.add(1347);
+        treeName.add(17654);
+        treeName.add(23452);
+        treeName.add(187654);
+        treeName.add(45);
+        treeName.add(872);
+
+        System.out.println(treeName);
+
+        TreeSet<Integer>  res = (TreeSet<Integer>)treeName.descendingSet();
+
+        System.out.println(res);
+
+
+        System.out.println(treeName);
         
     }
 }
